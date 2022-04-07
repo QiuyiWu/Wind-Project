@@ -1,3 +1,5 @@
+# Weibull WLS regression plot
+
 library(fitdistrplus)
 library(scales)
 
