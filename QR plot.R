@@ -1,3 +1,5 @@
+# Quantile Regression plot
+
 p <- c(0.5, 0.75, 0.95)
 label <- c("CA_coast", "ID", "OR_coast", "CO", "TX_GP", "ND_GP", "NC_mountain", "FL_coast","NE_coast", "OH_Erie")
 wdir <- c("S", "SW", "W", "NW", "N", "NE", "E", "SE", "S")
